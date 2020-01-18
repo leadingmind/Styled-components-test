@@ -10,7 +10,7 @@ export default function App() {
       <h2>Start editing to see some magic happen!</h2>
       <Block></Block>
       <Butt>New</Butt>
-    
+      <Butt primary>Old</Butt>
     </div>
   );
 }
