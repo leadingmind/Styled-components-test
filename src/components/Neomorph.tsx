@@ -5,6 +5,7 @@ const Card = Styled.div`
   width:max-content;
   padding:40px;
   margin:20px auto;
+  border-radius:10px;
   box-shadow:-12px -12px 30px 0 rgba(255,255,255,1),
             12px 12px 12px 0 rgba(0,0,0,.03);
   :hover{
